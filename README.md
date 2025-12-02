@@ -23,6 +23,8 @@ Frameworks : Laravel, Angular,.NET ,
 Outils : Git, GitHub, Postman.
 
 Méthodes : Architecture logicielle, design patterns.
+
+
 📫 Me contacter
 
 ✉️ Email : sergiombebi32@gmail.com
